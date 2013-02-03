@@ -1,4 +1,6 @@
-jwright37.github.com
-====================
+README FOR ASSIGNMENT 1
 
-Special Repo for Comp 20
+John Wright
+2/3/2013
+
+This project is awesome.
