@@ -1,3 +1,5 @@
-body {text-align: center}
-h1, h2 {background-color: blue; color: white;}
-p {font-size:18px}
+body {text-align: center;}
+h1 {background-color: blue; color: white; font-weight:bold;}
+img {border-width:8px; border-style:solid; border-color:black;}
+p {font-size:28px; }
+
